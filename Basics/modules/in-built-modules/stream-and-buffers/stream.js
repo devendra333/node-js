@@ -37,6 +37,10 @@ readableStream
 .pipe(writableStream)
 
 
+// An alternative waty to whandle pipel sijs to use pipleine instead of .pipe
+
+// 
+
 readableStream.push("data")
 
 
