@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "push": "git push https://github.com/devendra333/node-js.git",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
